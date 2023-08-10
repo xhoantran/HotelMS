@@ -1,0 +1,9 @@
+[submodule "HotelMS-server"]
+	path = HotelMS-server
+	url = https://github.com/xhoantran/HotelMS-server.git
+[submodule "HotelMS-client"]
+	path = HotelMS-client
+	url = https://github.com/xhoantran/HotelMS-client.git
+[submodule "HotelMS-infra"]
+	path = HotelMS-infra
+	url = https://github.com/xhoantran/HotelMS-infra.git
